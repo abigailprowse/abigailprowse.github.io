@@ -44,7 +44,7 @@ img {
   grid-column-end: 3;
   align-self: center;
   text-align: center;
-  justify-self: start;
+  justify-self: center;
 }
 .lorayneBadge {
   grid-row-start: 2;
@@ -53,7 +53,7 @@ img {
   grid-column-end: 2;
   align-self: center;
   text-align: center;
-  justify-self: start;
+  justify-self: center;
 }
 .rebeccaCollage{
   grid-row-start: 3;
@@ -62,7 +62,7 @@ img {
   grid-column-end: 3;
   align-self: center;
   text-align: center;
-  justify-self: start;
+  justify-self: center;
 }
 .Siennabadge{
   grid-row-start: 3;
@@ -71,7 +71,7 @@ img {
   grid-column-end: 2;
   align-self: auto;
   text-align: center;
-  justify-self: start;
+  justify-self: center;
 }
 .JordanBadge{
   grid-row-start: 4;
@@ -80,5 +80,5 @@ img {
   grid-column-end: 3;
   align-self: center;
   text-align: center;
-  justify-self: start;
+  justify-self: center;
 }
